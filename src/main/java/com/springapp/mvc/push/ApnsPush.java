@@ -28,7 +28,7 @@ public class ApnsPush {
 //        String certificate = "C:/develop_gunsanAdd.p12"; // 인증서 파일경로
 //        String password = "zaq1xsw2"; // 인증서 암호
 
-//        String token1 = "9eb36fcd60c8b911a2d5c25191f77db7aa5dc4c14fc0e93e2636cf100b3ebad2"; // 토큰값
+//        String token1 = "9eb36fcd60c8b911a2d5c25191f77db7aa5dc4c14fc0e93e2636cf100b3ebad2"; // 토큰값z
         System.out.println(token1.length());
         List<String> tokenList = new ArrayList<String>();
 
